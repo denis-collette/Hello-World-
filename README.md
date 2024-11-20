@@ -8,7 +8,7 @@ Geek, rider, animal lover.
 3. Alcohol maker
 
 #### Three things I like
-> Breathing
+> Dancing
 >> Sleeping
 >>> Eating
 >>>> *It would be boring to death without it...*
@@ -20,7 +20,7 @@ Becoming a ***bad-ass*** dev!
 Being too *slow*?
 
 #### Things I look forward to.
-> I will be the very best trainer.
+> I will be the very best trainee.
 
 **Or not...**
 

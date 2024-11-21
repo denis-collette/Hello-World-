@@ -30,4 +30,4 @@ Being too *slow*?
 - Learning to and from the team
 
 #### Favorite GIF
-![This is a racoon dancing](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVwMmk0bmQ3dnVnd2szZzRncDFseXltOWRheHAwYWJ5Y3I1dzJ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
+![This is a racoon dancing](https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif)
